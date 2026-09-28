@@ -1,0 +1,23 @@
+{
+  "project": {
+    "title": "Cancer Prevention: Awareness, Early Detection & Healthy Living",
+    "purpose": "Community health education and awareness only",
+    "surveyMetrics": {
+      "peopleReached": null,
+      "surveyResponses": 0,
+      "awarenessSessions": null,
+      "resourcesShared": null
+    }
+  },
+  "team": [
+    {"name":"P. Jyostna","registerNo":"24B81A12D9","phone":"7671876596"},
+    {"name":"P. Chand Sameer","registerNo":"24B81A12E2","phone":"7989473282"},
+    {"name":"S. Asheesh","registerNo":"24B81A12F7","phone":"9391780771"},
+    {"name":"S. Hema Durga","registerNo":"24B81A12G2","phone":"9652194145"},
+    {"name":"T. Venkaiah Chowdary","registerNo":"24B81A12H3","phone":"8639750717"},
+    {"name":"T. Revathi","registerNo":"24B81A12H6","phone":"7569195472"},
+    {"name":"P. Vaishnavi","registerNo":"24B81A12I9","phone":"9059823406"},
+    {"name":"V. S. S. Ranjini","registerNo":"24B81A12J1","phone":"9346716567"},
+    {"name":"Y. Vamsi Krishna","registerNo":"24B81A12J5","phone":"8247789590"}
+  ]
+}
